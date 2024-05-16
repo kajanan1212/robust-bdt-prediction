@@ -24,7 +24,7 @@ Improve the robustness of the bus dwell time prediction model in heterogeneous t
 - To survey and identify a robust suite of incremental learning algorithm to address real-time bus dwell time prediction challenges.​
 - To identify and develop suitable evaluation metrics for our specific context.​
 - To develop a framework to assess the impact of incremental learning algorithms along with different batch processing and concept drift handling strategies on bus dwell time prediction.​
-- To identify the optimal combination of batch processing and concept drift handling strategy to achieve a 5% reduction in mean absolute error (MAE) compared to the base model.
+- To identify the optimal combination of batch processing and concept drift handling strategy to achieve a significant reduction in mean absolute error (MAE) compared to the base model.
 
 ## System overview
 
