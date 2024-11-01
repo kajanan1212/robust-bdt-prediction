@@ -30,6 +30,10 @@ Improve the robustness of the bus dwell time prediction model in heterogeneous t
 
 ![sys-overview](./images/sys-overview.jpg)
 
+## Model overview
+
+![model-overview](./images/model-overview.png)
+
 ## License
 
 MIT [[See here](https://github.com/kajanan1212/robust-bdt-prediction/blob/master/LICENSE)]
